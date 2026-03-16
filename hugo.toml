@@ -1,7 +1,7 @@
 baseURL = "https://Ming-Ta.github.io/"
 languageCode = "zh-tw"
 title = "Ming-Ta 全馬破4計畫"
-theme = "github.com/adityatelange/hugo-PaperMod"
+theme = "PaperMod"
 
 [params]
   homeInfoParams = {Title = "🏃 全馬破 4 訓練計畫", Content = "目標：2026年完賽時間 3:59:59"}
