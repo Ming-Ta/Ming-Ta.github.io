@@ -123,5 +123,52 @@
 &lt;li&gt;本週平均配速：7:09/km（含爬坡，仍需提升）&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
+    <item>
+      <title>關於這個計畫</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h2 id=&#34;我是誰&#34;&gt;我是誰&lt;/h2&gt;
+&lt;p&gt;我是 Ming-Ta，住在台北文山區的業餘跑者。
+平日在景美河濱或跑步機上訓練，假日偶爾挑戰河濱長跑路線。&lt;/p&gt;
+&lt;h2 id=&#34;破4目標&#34;&gt;破4目標&lt;/h2&gt;
+&lt;p&gt;全馬完賽目標：&lt;strong&gt;3小時59分59秒以內&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;項目&lt;/th&gt;
+          &lt;th&gt;數字&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;目標完賽時間&lt;/td&gt;
+          &lt;td&gt;3:59:59&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;目標配速&lt;/td&gt;
+          &lt;td&gt;5:41/km&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;目標比賽&lt;/td&gt;
+          &lt;td&gt;2026年底&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;目前最長單跑&lt;/td&gt;
+          &lt;td&gt;42.39 km（萬里區）&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;目前訓練狀況&#34;&gt;目前訓練狀況&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;每週跑量：40～52 公里&lt;/li&gt;
+&lt;li&gt;主要訓練地點：文山區、跑步機、萬里區&lt;/li&gt;
+&lt;li&gt;每週跑 3～4 次&lt;/li&gt;
+&lt;li&gt;目前配速：6:35～7:00/km（需提升至 5:41/km）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;為什麼要寫這個頁面&#34;&gt;為什麼要寫這個頁面&lt;/h2&gt;
+&lt;p&gt;紀錄訓練過程，讓自己對目標負責。
+每週更新讓進步看得見。&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
