@@ -1,4 +1,4 @@
-﻿name: Deploy Hugo to GitHub Pages
+name: Deploy Hugo to GitHub Pages
 
 on:
   push:
@@ -10,7 +10,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          submodules: true
+          submodules: false
 
       - uses: peaceiris/actions-hugo@v3
         with:
