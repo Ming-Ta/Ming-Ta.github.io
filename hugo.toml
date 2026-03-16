@@ -1,0 +1,24 @@
+baseURL = "https://Ming-Ta.github.io/"
+languageCode = "zh-tw"
+title = "Ming-Ta 全馬破4計畫"
+theme = "PaperMod"
+
+[params]
+  homeInfoParams = {Title = "🏃 全馬破 4 訓練計畫", Content = "目標：2026年完賽時間 3:59:59"}
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/Ming-Ta"
+
+[menu]
+  [[menu.main]]
+    name = "訓練日誌"
+    url = "/posts/"
+    weight = 1
+  [[menu.main]]
+    name = "關於"
+    url = "/about/"
+    weight = 2
