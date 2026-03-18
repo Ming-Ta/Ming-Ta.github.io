@@ -20,7 +20,7 @@ jobs:
           hugo-version: 'latest'
           extended: true
 
-      - run: hugo --minify
+      - run: hugo --minify --cleanDestinationDir --gc
 
       - uses: peaceiris/actions-gh-pages@v4
         with:
