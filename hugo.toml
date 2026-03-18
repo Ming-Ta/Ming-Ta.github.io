@@ -1,27 +1,24 @@
-﻿baseURL = "https://Ming-Ta.github.io/"
-languageCode = "zh-tw"
-title = "Ming-Ta ?券收??閮"
+﻿baseURL = 'https://Ming-Ta.github.io/'
+languageCode = 'zh-tw'
+title = 'Ming-Ta 全馬破4計畫'
+theme = 'PaperMod'
 canonifyURLs = true
-theme = "PaperMod"
-canonifyURLs = true  # ?啣???銵?
+
 [params]
-  homeInfoParams = {Title = "?? ?券收??4 閮毀閮", Content = "?格?嚗?026撟游?鞈賣???3:59:59"}
+  homeInfoParams = {Title = '🏃 全馬破 4 訓練計畫', Content = '目標：2026年完賽時間 3:59:59'}
   ShowReadingTime = true
   ShowPostNavLinks = true
 
 [[params.socialIcons]]
-  name = "github"
-  url = "https://github.com/Ming-Ta"
+  name = 'github'
+  url = 'https://github.com/Ming-Ta'
 
 [menu]
   [[menu.main]]
-    name = "閮毀?亥?"
-    url = "/posts/"
+    name = '訓練日誌'
+    url = '/posts/'
     weight = 1
   [[menu.main]]
-    name = "?"
-    url = "/about/"
+    name = '關於'
+    url = '/about/'
     weight = 2
-# updated
-
-# updated
