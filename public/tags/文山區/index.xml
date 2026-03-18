@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>文山區 on Ming-Ta 全馬破4計畫</title>
-    <link>http://localhost:1313/tags/%E6%96%87%E5%B1%B1%E5%8D%80/</link>
+    <link>https://Ming-Ta.github.io/tags/%E6%96%87%E5%B1%B1%E5%8D%80/</link>
     <description>Recent content in 文山區 on Ming-Ta 全馬破4計畫</description>
     <generator>Hugo</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sat, 14 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E6%96%87%E5%B1%B1%E5%8D%80/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://Ming-Ta.github.io/tags/%E6%96%87%E5%B1%B1%E5%8D%80/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>3月第2週訓練週報</title>
-      <link>http://localhost:1313/posts/week02/</link>
+      <link>https://Ming-Ta.github.io/posts/week02/</link>
       <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/week02/</guid>
+      <guid>https://Ming-Ta.github.io/posts/week02/</guid>
       <description>&lt;h2 id=&#34;本週跑量總覽&#34;&gt;本週跑量總覽&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;42.36 公里 ／ 4小時47分11秒 ／ 消耗 2,741 卡&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id=&#34;每次訓練紀錄&#34;&gt;每次訓練紀錄&lt;/h2&gt;
@@ -68,9 +68,9 @@
     </item>
     <item>
       <title>3月第1週訓練週報</title>
-      <link>http://localhost:1313/posts/week01/</link>
+      <link>https://Ming-Ta.github.io/posts/week01/</link>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/week01/</guid>
+      <guid>https://Ming-Ta.github.io/posts/week01/</guid>
       <description>&lt;h2 id=&#34;本週跑量總覽&#34;&gt;本週跑量總覽&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;52.37 公里 ／ 6小時09分06秒 ／ 消耗 3,363 卡&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id=&#34;每次訓練紀錄&#34;&gt;每次訓練紀錄&lt;/h2&gt;

@@ -2,33 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/week02/</loc>
+    <loc>https://Ming-Ta.github.io/posts/week02/</loc>
     <lastmod>2026-03-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://Ming-Ta.github.io/</loc>
     <lastmod>2026-03-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://Ming-Ta.github.io/posts/</loc>
     <lastmod>2026-03-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://Ming-Ta.github.io/tags/</loc>
     <lastmod>2026-03-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/%E6%96%87%E5%B1%B1%E5%8D%80/</loc>
+    <loc>https://Ming-Ta.github.io/tags/%E6%96%87%E5%B1%B1%E5%8D%80/</loc>
     <lastmod>2026-03-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/%E8%B7%91%E6%AD%A5%E6%A9%9F/</loc>
+    <loc>https://Ming-Ta.github.io/tags/%E8%B7%91%E6%AD%A5%E6%A9%9F/</loc>
     <lastmod>2026-03-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/%E9%80%B1%E5%A0%B1/</loc>
+    <loc>https://Ming-Ta.github.io/tags/%E9%80%B1%E5%A0%B1/</loc>
     <lastmod>2026-03-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/week01/</loc>
+    <loc>https://Ming-Ta.github.io/posts/week01/</loc>
     <lastmod>2026-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://Ming-Ta.github.io/about/</loc>
     <lastmod>2026-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://Ming-Ta.github.io/categories/</loc>
   </url>
 </urlset>
